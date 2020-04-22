@@ -48,11 +48,11 @@
     <artifactId>httpmime</artifactId>
     <version>4.5.12</version>
 </dependency>
-    <dependency>
-    	<groupId>chay</groupId>
-    	<artifactId>util</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+  	<dependency>
+  		<groupId>chay</groupId>
+  		<artifactId>utils</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 
   <build>
